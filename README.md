@@ -4,6 +4,8 @@
 
 LynxLog is a tiny macOS app that pulls the audio out of a video file and transcribes it to text using OpenAI's Whisper model running locally. Point it at a screen recording, a lecture, a voice memo you exported as video — and copy the text or save it as Markdown. Nothing leaves your machine.
 
+![almanOS_lynxLog_app](https://github.com/alman-os/lynxLog/blob/main/LYNX_image_1.png)
+
 ---
 
 ## Table of Contents
