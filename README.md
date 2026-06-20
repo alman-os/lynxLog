@@ -35,7 +35,7 @@ LynxLog is a tiny macOS app that pulls the audio out of a video file and transcr
 
 ## Installation
 
-**Requirements:** macOS 10.13 or later, Apple Silicon (M1/M2/M3/M4).
+**Requirements:** macOS 11 or later, Apple Silicon (M1/M2/M3/M4).
 
 **1. Download the app.** Grab the latest `LynxLog_macOS-silicon` zip from the [Releases page](https://github.com/alman-os/lynxLog/releases), unzip it, and drag `LynxLog.app` into your Applications folder.
 
