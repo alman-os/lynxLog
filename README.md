@@ -1,10 +1,26 @@
+![almanOS_lynxLog_app](https://github.com/alman-os/lynxLog/blob/main/LYNX_image_1.png)
+
 # LynxLog
 
 **Drag in an `.mp4`, get a clean text transcript — all on your Mac, no cloud, no account.**
 
 LynxLog is a tiny macOS app that pulls the audio out of a video file and transcribes it to text using OpenAI's Whisper model running locally. Point it at a screen recording, a lecture, a voice memo you exported as video — and copy the text or save it as Markdown. Nothing leaves your machine.
 
-![almanOS_lynxLog_app](https://github.com/alman-os/lynxLog/blob/main/LYNX_image_1.png)
+<table>
+  <tr>
+    <td>
+      <a href="https://youtu.be/W4TQU8brNbg">
+        <img src="https://github.com/alman-os/lynxLog/blob/main/yt-thumbnail.png" alt="Watch the video" width="300">
+      </a>
+    </td>
+    <td>
+      <h3>Turn Any Video into Searchable Markdown (FREE Local Tool for macOS)</h3>
+      <p> 👈🏻 Watch the Youtube Explainer here!
+</p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
